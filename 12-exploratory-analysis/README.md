@@ -5,7 +5,7 @@ Material da aula 12 - Análise Exploratória & Apresentação de insights.
 ### Pré-aula
 1. [opcional] Uma referência de análise de dados simples e eficaz: https://www.youtube.com/watch?v=hVimVzgtD6w
 2. [opcional] Um exemplo do valor dos dados para negócios: https://news.uchicago.edu/article/2016/09/16/big-data-gives-insight-appeal-services-uber
-2.1. [opcional] Artigo científico do item acima: http://www.nber.org/papers/w22627
+3. [opcional] Artigo científico do item acima: http://www.nber.org/papers/w22627
 
 
 
