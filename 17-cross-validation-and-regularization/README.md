@@ -22,3 +22,4 @@ Material da aula 17.
 - [Linear Models](http://scikit-learn.org/stable/modules/classes.html#module-sklearn.linear_model)
 - [GridSearchCV](http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html)
 - [KFold](http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.KFold.html)
+3. Ler este [Artigo](https://pdfs.semanticscholar.org/c19a/efe95fc0c120af1f8fad161f640a7f76edae.pdf) sobre a influência de $K$ no Cross Validation.
