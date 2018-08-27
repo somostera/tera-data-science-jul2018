@@ -1,4 +1,4 @@
-
+﻿
 13-projects-exploratory-analysis/data/properties_2017.csv
 13-projects-exploratory-analysis/data/sample_submission.csv
 13-projects-exploratory-analysis/data/train_2016_v2.csv
@@ -8,4 +8,4 @@
 15-ml-with-decision-trees/notebooks/Aula 15 - AM com Árvores de Decisão.ipynb
 15-ml-with-decision-trees/notebooks/Gabarito Aula 15 - AM com Árvores de Decisão.ipynb
 15-ml-with-decision-trees/README.md
-17-cross-validation-and-regularization/.ipynb_checkpoints/Tutorial 1 - Regularização-checkpoint.ipynb
+*.ipynb_checkpoints*
