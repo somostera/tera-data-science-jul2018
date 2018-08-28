@@ -1,4 +1,6 @@
-﻿
+﻿.DS_Store
+**.DS_Store
+
 13-projects-exploratory-analysis/data/properties_2017.csv
 13-projects-exploratory-analysis/data/sample_submission.csv
 13-projects-exploratory-analysis/data/train_2016_v2.csv
