@@ -3,6 +3,7 @@
 
 ## Pré-aula
 
+- Descompactar dataset que está em formato `.zip` na pasta `data`.
 - [Precision-Recall Curves](https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-classification-in-python/#attachment_6065) e a sua comparação com a curva ROC (Machine Learning Mastery)
 
 
