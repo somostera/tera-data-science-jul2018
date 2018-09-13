@@ -3,9 +3,9 @@
 
 ## Pré-aula
 
-1. Descompactar dataset que está em formato `.zip` na pasta `data`;
-2. Instalar biblioteca spaCy pelo **conda**:
+1. Instalar biblioteca spaCy pelo **conda**:
 	!conda install -c conda-forge spacy -y
+2. Analisar inicialmente os datasets da aula da pasta `data`. Opcional: baixar datasets.
 
 ## Desafios pós-aula
 
