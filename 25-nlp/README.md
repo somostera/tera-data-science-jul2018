@@ -4,7 +4,7 @@
 ## Pré-aula
 
 1. Instalar biblioteca spaCy pelo **conda**:
-	!conda install -c conda-forge spacy -y
+	`!conda install -c conda-forge spacy -y`
 2. Analisar inicialmente os datasets da aula da pasta `data`. Opcional: baixar datasets.
 
 ## Desafios pós-aula
